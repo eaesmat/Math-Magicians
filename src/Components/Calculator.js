@@ -6,7 +6,7 @@ class Calculator extends React.Component {
     return (
       <div>
         <div className="row">
-          <div className="col border p-4 bg-secondary text-light">0</div>
+          <div className="col border p-4 bg-secondary text-light ">0</div>
         </div>
         <div className="row">
           <button type="button" className="col-3 text-center border p-3">
