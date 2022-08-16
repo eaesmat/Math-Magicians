@@ -70,7 +70,7 @@ git clone https://github.com/eaesmat/Math-Magicians.git
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/eaesmat/Math-Magicians.git).
+Feel free to check the [issues page](https://github.com/eaesmat/Math-Magicians/issues).
 
 ## Show your support
 
