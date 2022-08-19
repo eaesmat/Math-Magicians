@@ -20,17 +20,17 @@ const NavBar = () => (
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <form className="d-flex m-auto" />
         <span className="pe-5 text-light">
-          <Link to="/">
+          <Link to="/" className="text-decoration-none">
             <span className="text-light text-decoration-none"> Home</span>
           </Link>
         </span>
         <span className="pe-5 text-light">
-          <Link to="/calculator ">
+          <Link to="/calculator " className="text-decoration-none">
             <span className="text-light text-decoration-none"> Calculator</span>
           </Link>
         </span>
         <span className="pe-5 text-light">
-          <Link to="/quote ">
+          <Link to="/quote " className="text-decoration-none">
             <span className="text-light text-decoration-none"> Quote</span>
           </Link>
         </span>
